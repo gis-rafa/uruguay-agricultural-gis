@@ -1,38 +1,117 @@
 # Uruguay Agricultural GIS Portfolio
 
-Banner Image
+![Banner](maps/banner.png)
 
 ## About
 
-## Skills
+This portfolio showcases my transition into Agricultural GIS through practical projects focused on Uruguay. It demonstrates skills in GIS analysis, remote sensing, soil mapping, land suitability assessment, and crop monitoring using QGIS and open geospatial data.
 
-## Projects
+---
 
-01 - Uruguay Base Map
+## Technical Skills
 
-02 - CONEAT Soil Mapping
+- QGIS
+- Remote Sensing
+- Sentinel-2 Imagery
+- Raster Analysis
+- Vector Analysis
+- Cartography
+- Spatial Analysis
+- GDAL
+- GeoPackage
+- GeoJSON
 
-03 - Land Suitability
+---
 
-04 - NDVI Crop Monitoring
+# Portfolio Projects
 
-## Technologies
+## 01 • Uruguay Base Map
+
+**Objective**
+
+Create a professional base map of Uruguay for future GIS analysis.
+
+**Skills**
+
+- Coordinate Reference Systems
+- Data preparation
+- Cartographic layout
+- Administrative boundaries
+
+---
+
+## 02 • CONEAT Soil Mapping
+
+**Objective**
+
+Analyze Uruguay's official CONEAT soil productivity groups and interpret agricultural potential.
+
+**Skills**
+
+- Vector analysis
+- Attribute tables
+- Soil interpretation
+- Agricultural GIS
+
+---
+
+## 03 • Agricultural Land Suitability
+
+**Objective**
+
+Identify suitable agricultural land using terrain, soil, and environmental criteria.
+
+**Skills**
+
+- Raster processing
+- Overlay analysis
+- Suitability modelling
+- Multi-criteria analysis
+
+---
+
+## 04 • NDVI Crop Monitoring
+
+**Objective**
+
+Monitor vegetation health in Rocha Department using Sentinel-2 imagery and NDVI.
+
+**Skills**
+
+- Remote sensing
+- NDVI
+- Raster Calculator
+- Band processing
+- Satellite imagery
+
+---
+
+# Software
 
 - QGIS
 - GDAL
-- Remote Sensing
-- Sentinel-2
-- Raster Analysis
-- Vector Analysis
+- Git
+- GitHub
 
-## Future Projects
+---
+
+# Future Projects
 
 - Land Cover Classification
-- Crop Suitability
+- Crop Type Mapping
+- Flood Risk Assessment
+- Water Resources Analysis
 - Change Detection
-- Water Resources
+- Time-Series Remote Sensing
 
-## Contact
+---
 
-LinkedIn
-Email
+# Contact
+
+**LinkedIn**
+
+https://www.linkedin.com/in/abdallah-farag
+
+**GitHub**
+
+https://github.com/gis-rafa
