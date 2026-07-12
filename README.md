@@ -1,6 +1,8 @@
 # Uruguay Agricultural GIS Portfolio
 
-![Banner](maps/banner.png)
+
+<img width="1774" height="887" alt="ChatGPT Image Jul 12, 2026, 12_41_08 PM" src="https://github.com/user-attachments/assets/60046b91-2062-4396-ac0a-8de81bfb0ec7" />
+
 
 ## About
 
