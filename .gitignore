@@ -1,0 +1,19 @@
+# Large raster files
+*.tif
+*.tiff
+
+# QGIS temporary files
+*.aux.xml
+*.ovr
+*.qmd
+*.qgd
+*.qgz~
+
+# QGIS backups
+*.bak
+
+*.SAFE
+*.SAFE/
+projects/04-ndvi-crop-monitoring/*.SAFE/
+projects/04-ndvi-crop-monitoring/*.SAFE
+projects/03-land-suitability/CONEAT_Fixed.gpkg
