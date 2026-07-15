@@ -1,0 +1,55 @@
+<VRTDataset rasterXSize="10980" rasterYSize="10980">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / UTM zone 21S",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-57],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",10000000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32721"]]</SRS>
+  <GeoTransform>  6.9996000000000000e+05,  1.0000000000000000e+01,  0.0000000000000000e+00,  6.3000400000000000e+06,  0.0000000000000000e+00, -1.0000000000000000e+01</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7732</MDI>
+      <MDI key="STATISTICS_MEAN">1228.8832803256</MDI>
+      <MDI key="STATISTICS_MINIMUM">723</MDI>
+      <MDI key="STATISTICS_STDDEV">157.70547836897</MDI>
+    </Metadata>
+    <Description>Grayscale</Description>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:/gis/uruguay-agricultural-gis/projects/04-ndvi-crop-monitoring/S2A_MSIL2A_20260513T133241_N0512_R081_T21HYC_20260513T213720.SAFE/GRANULE/L2A_T21HYC_A056878_20260513T133249/IMG_DATA/R10m/T21HYC_20260513T133241_B02_10m.jp2</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10980" RasterYSize="10980" DataType="UInt16" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="10980" ySize="10980" />
+      <DstRect xOff="0" yOff="0" xSize="10980" ySize="10980" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7798</MDI>
+      <MDI key="STATISTICS_MEAN">1527.8891624773</MDI>
+      <MDI key="STATISTICS_MINIMUM">808</MDI>
+      <MDI key="STATISTICS_STDDEV">209.28112553942</MDI>
+    </Metadata>
+    <Description>Grayscale</Description>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:/gis/uruguay-agricultural-gis/projects/04-ndvi-crop-monitoring/S2A_MSIL2A_20260513T133241_N0512_R081_T21HYC_20260513T213720.SAFE/GRANULE/L2A_T21HYC_A056878_20260513T133249/IMG_DATA/R10m/T21HYC_20260513T133241_B03_10m.jp2</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10980" RasterYSize="10980" DataType="UInt16" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="10980" ySize="10980" />
+      <DstRect xOff="0" yOff="0" xSize="10980" ySize="10980" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7519</MDI>
+      <MDI key="STATISTICS_MEAN">1437.1803973872</MDI>
+      <MDI key="STATISTICS_MINIMUM">694</MDI>
+      <MDI key="STATISTICS_STDDEV">245.8838481402</MDI>
+    </Metadata>
+    <Description>Grayscale</Description>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:/gis/uruguay-agricultural-gis/projects/04-ndvi-crop-monitoring/S2A_MSIL2A_20260513T133241_N0512_R081_T21HYC_20260513T213720.SAFE/GRANULE/L2A_T21HYC_A056878_20260513T133249/IMG_DATA/R10m/T21HYC_20260513T133241_B04_10m.jp2</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="10980" RasterYSize="10980" DataType="UInt16" BlockXSize="1024" BlockYSize="1024" />
+      <SrcRect xOff="0" yOff="0" xSize="10980" ySize="10980" />
+      <DstRect xOff="0" yOff="0" xSize="10980" ySize="10980" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
