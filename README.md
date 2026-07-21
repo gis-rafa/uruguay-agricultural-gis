@@ -78,6 +78,58 @@ Identify suitable agricultural land using terrain, soil, and environmental crite
 
 Monitor vegetation health in Rocha Department using Sentinel-2 imagery and NDVI.
 
+---
+
+## 05 • Flood Risk Mapping
+
+### Objective
+
+Identify flood-prone areas in Rocha Department using DEM-derived terrain parameters and hydrological analysis.
+
+### Skills
+
+- Flood risk assessment
+- DEM processing
+- Slope analysis
+- Flow accumulation
+- Raster overlay
+- Hydrological modeling
+
+---
+
+## 06 • Watershed Delineation
+
+### Objective
+
+Delineate watershed boundaries and drainage basins from a hydrologically corrected DEM.
+
+### Skills
+
+- Watershed delineation
+- Basin extraction
+- Flow direction
+- Hydrological preprocessing
+- GRASS GIS
+- Terrain analysis
+
+---
+
+## 07 • Watershed Stream Network Analysis
+
+### Objective
+
+Extract and analyze the drainage network of Rocha Department and classify streams using the Strahler stream ordering system.
+
+### Skills
+
+- Stream extraction
+- Strahler Stream Order
+- Flow accumulation
+- Flow direction
+- Hydrological analysis
+- GRASS GIS
+- Cartographic layout
+
 **Skills**
 
 - Remote sensing
