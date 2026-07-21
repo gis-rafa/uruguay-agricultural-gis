@@ -79,6 +79,15 @@ Identify suitable agricultural land using terrain, soil, and environmental crite
 Monitor vegetation health in Rocha Department using Sentinel-2 imagery and NDVI.
 
 ---
+**Skills**
+
+- Remote sensing
+- NDVI
+- Raster Calculator
+- Band processing
+- Satellite imagery
+
+---
 
 ## 05 • Flood Risk Mapping
 
@@ -129,14 +138,6 @@ Extract and analyze the drainage network of Rocha Department and classify stream
 - Hydrological analysis
 - GRASS GIS
 - Cartographic layout
-
-**Skills**
-
-- Remote sensing
-- NDVI
-- Raster Calculator
-- Band processing
-- Satellite imagery
 
 ---
 
