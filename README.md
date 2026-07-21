@@ -150,16 +150,16 @@ Extract and analyze the drainage network of Rocha Department and classify stream
 
 ---
 
-# Future Projects
+## Future Projects
 
 - Land Cover Classification
 - Crop Type Mapping
-- Flood Risk Assessment
-- Water Resources Analysis
-- Change Detection
-- Time-Series Remote Sensing
-
----
+- Land Surface Temperature
+- Time-Series NDVI Analysis
+- Groundwater Potential Mapping
+- Soil Erosion Modeling (RUSLE)
+- Multi-Criteria Decision Analysis (MCDA)
+- Irrigation Suitability Assessment
 
 # Contact
 
